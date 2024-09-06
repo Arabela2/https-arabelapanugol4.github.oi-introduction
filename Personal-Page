@@ -1,0 +1,61 @@
+<!DOCTYPE>
+<html>
+    <Head>
+        <h1>introduce</h1>
+        </head>
+        <body>
+            <img src="IMG_20231120_120407.jpg"width="100%">
+          <h1>Maria Arabela Panugol F.</h1> 
+          <p> </strong> BSCS 2B student </strong>
+          </p>
+          <hr>
+             <hr3>About Me</hr3>   
+             <p>I studied at kolehiyo lungsod ng lipa,Taking up Bachelor of Science in computer science</p>
+              <oli>
+              <li><a href="hobbies.html">hobbies</a>
+              </li>
+              <li>dance</li>   
+                   <img  scr="IMG_20231120_120407.jpg"width="100%"> 
+              <li><a href="skills.html">skills</a>
+              <li>Encoding</li>
+              <li><a href="tools.html">tools technologies stocks</a>
+              <li>Sensata technologies holding</li>
+              
+              </center>
+              </main>
+              <hr>
+              <footer>
+              <form>
+                  
+                  <label for="username">Username</label>
+             </form>
+             </footer>
+          </body>
+          
+              Name</br> 
+              <input type="password"></input></br>
+              email </b>
+              <input></br>
+             your message </br>
+             <input></br>
+             
+             
+             
+             <p>
+                 county 
+                <select>
+               
+               <option>Philippines</option>
+               <option >Singapore</Option>
+               <option >japan</option>
+               
+           </o>   
+           </p></p>
+           </body>
+           </html>
+                       
+          
+                            
+              
+          
+
